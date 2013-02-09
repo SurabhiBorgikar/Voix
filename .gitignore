@@ -1,0 +1,6 @@
+##Compiled files or Object files##
+*.pyc
+
+##Flask and virtualenv modules to be ignored##
+./flask/
+virtualenv.py
